@@ -1,0 +1,62 @@
+
+body {
+    margin: 0;
+    font-size: 28px;
+    font-family: Quicksand;
+    background-color: #DEEEEA;
+  
+  }
+
+
+
+#navbar {
+    overflow: hidden;
+    background-color:white;
+  }
+  
+  #navbar a {
+    float: right;
+    display: inline-block;
+    color: #000000;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  #navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  #navbar a.active {
+    background-color: #9fc9c7;
+    color: white;
+  }
+
+  .name{
+    font-family: Quicksand;
+    text-align: center;
+    padding-block-start: .5in;
+   
+  }
+
+
+.pics{
+    display: inline-block;
+    float:center;
+    padding: 40px;
+    font-size: 30px;
+    text-align:center;
+    border-color:black;
+    font-family: freestyle script;
+    position: relative;
+    }
+    
+    
+    
+    .p{
+    
+    text-align: center;
+    
+    }
