@@ -38,36 +38,6 @@ body {
     color: white;
   }
 
-
-  .title{
-    font-family: Quicksand;
-    font-size: 50px;
-    text-align: center;
-    padding-block-start: .5in;
-  }
-
-  .name{
-    font-family: Quicksand;
-    font-size: 50px;
-    text-align: center;
-    padding-block-start: 2.5in;
-   
-  }
-  
-
-  .column {
-    float: left;
-    width: 33.33%;
-    padding: 100px;
-  }
-  
-  /* Clear floats after image containers */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-    text-align: center;
-
-  }
-
+ 
+ 
   
